@@ -1,0 +1,33 @@
+
+import java.io._
+import javax.imageio._
+import org.apache.spark.SparkContext._
+import org.apache.spark.SparkConf
+import org.apache.spark.SparkContext
+import breeze.linalg._
+
+object ImageSVD{
+  
+  def readImage(): Unit = {
+    println("In readImage");
+  }
+  
+  def computeSVD: Unit = {
+    println("in Compute SVD")
+  }
+  
+  def average: Unit = {
+    println("In average");
+  }
+  
+  def main(args: Array[String]): Unit = {
+   val conf = new SparkConf().setAppName("SVD");
+   val sc = new SparkContext(conf);
+   //var img = ImageIO.read(new File("abc.png"));
+   val files = sc.parallelize(new java.io.File("/home/cloudera/sparkNew/yeast-ribosome-small").listFiles).filter(_.getName.endsWith(".png")).cache();
+   println("I was ever here!!!")
+   //println(files.size)
+   files.foreach(println)
+
+  }
+}

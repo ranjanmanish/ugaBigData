@@ -1,0 +1,35 @@
+[0m[[0minfo[0m] [0mPackaging /home/cloudera/sparkNew/SVDProj/target/scala-2.11/manishproject_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	ImageSVDExample$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVDExample$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$8.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$3.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$readImage$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$readImage$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVDExample$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVDExample$$anonfun$main$1$$anonfun$apply$mcVI$sp$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVDExample$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVDExample$.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$readImage$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$readImage$1.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$4.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$6.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVDExample.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVDExample.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$5.class[0m
+[0m[[0mdebug[0m] [0m	ImageSVD$$anonfun$7.class[0m
+[0m[[0mdebug[0m] [0m	  /home/cloudera/sparkNew/SVDProj/target/scala-2.11/classes/ImageSVD$$anonfun$7.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
